@@ -8,6 +8,7 @@ data[1:2,]
 attributes(data)
 #14
 data[152:153,]
+tail(data,n=2)
 #15
 data[47,]$Ozone
 #16
